@@ -1,7 +1,7 @@
-page 60100 "API Clientes AprendeBC"
+page 60100 "API Customers AprendeBC"
 {
     PageType = API;
-    Caption = 'API Clientes AprendeBC';
+    Caption = 'API Customers AprendeBC';
     APIPublisher = 'rcb';
     APIGroup = 'aprendeBC';
     APIVersion = 'v2.0';
@@ -21,7 +21,7 @@ page 60100 "API Clientes AprendeBC"
                     Caption = 'No.';
 
                 }
-                field(nombreCliente; rec.Name)
+                field(customerName; rec.Name)
                 {
                     Caption = 'Nombre Cliente';
 
