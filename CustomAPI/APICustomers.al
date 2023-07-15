@@ -23,7 +23,7 @@ page 60100 "API Customers AprendeBC"
                 }
                 field(customerName; rec.Name)
                 {
-                    Caption = 'Nombre Cliente';
+                    Caption = 'Customer Name';
 
                 }
                 field(vatRegistrationNo; rec."VAT Registration No.")
