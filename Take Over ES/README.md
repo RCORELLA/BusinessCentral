@@ -3,5 +3,6 @@ Ejemplo desarrollado por Microsoft para la integración de Business Central y Po
 
 Puedes ver un video de la integración en mi canal [Aprende Business Central en Español](https://youtube.com/@rcorella)
 
-[Demo integración entre Business Central y Power Apps](https://youtu.be/S88DfrVW1n0)
+[![Miniatura del video](https://img.youtube.com/vi/S88DfrVW1n0/0.jpg)](https://youtu.be/S88DfrVW1n0)
+
 
