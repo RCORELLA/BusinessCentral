@@ -1,0 +1,9 @@
+{ 
+    "name": "Microsoft Dynamics 365 Business Central",
+    "dataColors": ["#00B7C3", "#505C6D", "#A7ADB6", "#008089", "#99E2E7", "#C9C472", "#88CE81", "#E97768", "#4CB1E7", "#858D99", "#D3D6DA", "#59CCB4", "#75D8E7", "#D9D47A", "#E89E63", "#DBBDEB", "#6A7483", "#39B294", "#73BA5A", "#E65E6D"],
+    "background":"#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#00B7C3"
+}
+
+	
