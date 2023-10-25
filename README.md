@@ -11,6 +11,7 @@ Here you can find the AL Code and the Power Platform solution for the sample cre
 
 # Business Central Theme for PowerBI
 Here you find a Power BI Theme with the Business Central Colors
+
 ![image](https://github.com/RCORELLA/BusinessCentral/ThemePowerBI/tema2.jpg)
 
 
